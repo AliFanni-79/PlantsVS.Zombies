@@ -1,0 +1,10 @@
+
+V	java:S110
+"<This class has 6 parents which is greater than 5 authorized.(˜ù¤¦ûÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(³ŒŠçüÿÿÿÿ
+D
+java:S1128")Remove this unused import 'Miscs.Sounds'.(•š·Ÿıÿÿÿÿ
+B
+java:S1128"'Remove this unused import 'Menus.Game'.(·—´Şşÿÿÿÿ
+F
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ

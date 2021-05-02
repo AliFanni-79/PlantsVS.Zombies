@@ -1,0 +1,11 @@
+
+‹
+java:S1319"uThe type of the "sunFlowers" object should be an interface such as "List" rather than the implementation "ArrayList".(Ó•¯Æ
+F
+java:S1444"0Make this "public static sunFlowers" field final(Ó•¯Æ
+Q	java:S110"<This class has 6 parents which is greater than 5 authorized.(÷à÷Í
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(³ŒŠçüÿÿÿÿ
+l
+java:S1104"VMake sunFlowers a static final constant or non-public and provide accessors if needed.(Ó•¯Æ
+3
+java:S2386"Make this member "protected".(Ó•¯Æ

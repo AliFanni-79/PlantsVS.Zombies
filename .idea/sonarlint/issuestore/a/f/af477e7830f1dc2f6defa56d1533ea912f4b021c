@@ -1,0 +1,87 @@
+
+?
+java:S1659"$Declare "FREEZE" on a separate line.(‹¶©Êıÿÿÿÿ
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Õ„Ñ‘ûÿÿÿÿ
+;
+java:S1659"%Declare "PLASTIC" on a separate line.(Ñú–†
+9
+java:S1659"#Declare "METAL" on a separate line.(Ñú–†
+C
+java:S1199="-Extract this nested code block into a method.(ËìÜª
+H
+java:S1199"-Extract this nested code block into a method.(“ÓÒœûÿÿÿÿ
+C
+java:S1121".Extract the assignment out of this expression.(Ç©‚}
+I
+java:S1121 ".Extract the assignment out of this expression.(ªİâşÿÿÿÿ
+>
+java:S1659"#Declare "PLANT" on a separate line.(‹¶©Êıÿÿÿÿ
+I
+java:S1121".Extract the assignment out of this expression.(ğï€ğûÿÿÿÿ
+B
+java:S1659"'Declare "SHOOT_PEA" on a separate line.(Õ„Ñ‘ûÿÿÿÿ
+D
+java:S1121"".Extract the assignment out of this expression.(ŠíÍ„
+I
+java:S1121A".Extract the assignment out of this expression.(óÚÃÿıÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¥ÍØ„
+I
+java:S1121".Extract the assignment out of this expression.(àÜÜ†øÿÿÿÿ
+I
+java:S1121".Extract the assignment out of this expression.(…ˆ¿úÿÿÿÿ
+C
+java:S1199)"-Extract this nested code block into a method.(ßş–ß
+D
+java:S1659".Declare "CHERRY_EXPLOSION" on a separate line.(¾Öÿ
+@
+java:S1659"%Declare "IN_GAME" on a separate line.(Õ„Ñ‘ûÿÿÿÿ
+U
+java:S1118
+":Add a private constructor to hide the implicit public one.(äÈ¾ìûÿÿÿÿ
+C
+java:S1121$".Extract the assignment out of this expression.(¼¸´
+C
+java:S1659"(Declare "EAT_PLANTS" on a separate line.(Õ„Ñ‘ûÿÿÿÿ
+C
+java:S1121(".Extract the assignment out of this expression.(‡ñòM
+B
+java:S1659",Declare "ZOMBIES_COMING" on a separate line.(¾Öÿ
+8
+java:S1659""Declare "LOSE" on a separate line.(¾Öÿ
+D
+java:S1121!".Extract the assignment out of this expression.(ØàíÔ
+9
+java:S1659"#Declare "GRUNT" on a separate line.(¾Öÿ
+D
+java:S1121&".Extract the assignment out of this expression.(±ùŸ
+C
+java:S1659"(Declare "SEED_CLICK" on a separate line.(Õ„Ñ‘ûÿÿÿÿ
+`	java:S112F"FDefine and throw a dedicated exception instead of using a generic one.(õÍÆËıÿÿÿÿ
+D
+java:S1121#".Extract the assignment out of this expression.(—ØÙ—
+C
+java:S1121'".Extract the assignment out of this expression.(ÓÜ¯@
+7
+java:S1659"!Declare "WIN" on a separate line.(¾Öÿ
+D
+java:S1121".Extract the assignment out of this expression.(­áîÑ
+[	java:S112/"FDefine and throw a dedicated exception instead of using a generic one.(Üú‰İ
+D
+java:S1659")Declare "CHOOSE_DECK" on a separate line.(Õ„Ñ‘ûÿÿÿÿ
+<
+java:S1659"&Declare "STARTING" on a separate line.(¾Öÿ
+H
+java:S1199B"-Extract this nested code block into a method.(Æª•˜ùÿÿÿÿ
+I
+java:S1121%".Extract the assignment out of this expression.(«¼ÖÔúÿÿÿÿ
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Ñú–†
+?
+java:S1659"$Declare "SELECT" on a separate line.(‹¶©Êıÿÿÿÿ
+9
+java:S1659"#Declare "READY" on a separate line.(¾Öÿ
+8
+java:S1659""Declare "WALK" on a separate line.(¾Öÿ
+P
+java:S1121".Extract the assignment out of this expression.(‡ñëÿÿÿÿÿ8Äõş…ğ.
